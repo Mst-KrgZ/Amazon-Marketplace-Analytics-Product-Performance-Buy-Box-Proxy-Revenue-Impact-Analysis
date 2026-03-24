@@ -1,5 +1,12 @@
 # Amazon Marketplace Analytics: Product Performance, Buy Box Proxy & Revenue Impact Analysis
 
+
+## Dashboard Preview
+
+### Home Page
+
+![Home Dashboard](images/home_page.png)
+
 A multi-page Power BI dashboard built to analyze Amazon marketplace sales performance from multiple business angles, including category trends, product performance, cancellation behavior, Buy Box proxy signals, private label comparison, A/B test setup, and effect size-based impact estimation.
 
 This project goes beyond descriptive reporting and aims to support decision-making by combining financial KPIs, operational signals, product-level diagnostics, and scenario-based business impact analysis.
